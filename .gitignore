@@ -1,0 +1,8 @@
+# Exemplo para Node.js
+node_modules/
+.env
+.log
+dist/
+# Arquivos de IDE
+.vscode/
+.idea/
