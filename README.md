@@ -15,8 +15,8 @@ Sistema de gestão de informações e orçamentos para o projeto LabMaker
     npm install
 
 3. **Configure as variáveis de ambiente:**:
-    cp .env.example .env
-    # Edite o .env com suas configurações (banco de dados, etc.)
+    - cp .env.example .env
+    - Edite o .env com suas configurações (banco de dados, etc.)
 
 4. **Inicie o servidor:**:
     npm start
