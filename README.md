@@ -21,7 +21,7 @@ Sistema de gestão de informações e orçamentos para o projeto LabMaker
 4. **Inicie o servidor:**:
     npm start
 
-#🤝 **Contribuição**
+## 🤝 **Contribuição**
 1. Crie uma branch para sua feature:
         -git checkout -b feature/nome-da-feature
 2. Siga as diretrizes de contribuição
